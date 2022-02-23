@@ -1,6 +1,5 @@
 package algorithm.LinkedList;
 
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -31,5 +30,6 @@ public class B요세푸스문제 {
 			System.out.print(", ");
 		}
 		System.out.print(">");
+		sc.close();
 	}
 }
