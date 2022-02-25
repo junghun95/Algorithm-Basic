@@ -28,6 +28,7 @@ public class B색종이2 {
 				if(map[i][j] != map[i+1][j]) cnt++;		
 			}
 		}
+		sc.close();
 		System.out.println(cnt);
 	}
 }
