@@ -9,3 +9,11 @@
 - 백준 : https://www.acmicpc.net/
 
 - 정올 : http://jungol.co.kr/
+
+## 새출발
+
+- 알고리즘 공부 다시 시작하기
+
+- 백준 문제 class 레벨로 나누어 정복하기!
+
+- 문제 리스트 출처 : https://solved.ac/class/2
