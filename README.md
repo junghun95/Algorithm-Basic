@@ -16,4 +16,10 @@
 
 - 백준 문제 class 레벨로 나누어 정복하기!
 
-- 문제 리스트 출처 : https://solved.ac/class/2
+- 문제 리스트 출처 : https://solved.ac/class
+
+- class 1 : 완료
+
+- class 2 : 완료
+
+- class 3 : 완료
