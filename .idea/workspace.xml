@@ -10,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/Class4/최소비용구하기.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/특정한최단경로.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/파티.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class4/후위표기식.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -48,12 +49,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.최소비용구하기">
+  <component name="RunManager" selected="Application.후위표기식">
     <configuration name="곱셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.Class4.곱셈" />
       <module name="Algorithm-Basic" />
@@ -80,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="파티" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.파티" />
+    <configuration name="후위표기식" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.후위표기식" />
       <module name="Algorithm-Basic" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.후위표기식" />
         <item itemvalue="Application.최소비용구하기" />
         <item itemvalue="Application.최단경로" />
         <item itemvalue="Application.곱셈" />
         <item itemvalue="Application.특정한최단경로" />
-        <item itemvalue="Application.파티" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677993517190</updated>
       <workItem from="1677993519651" duration="860000" />
-      <workItem from="1677994499965" duration="25093000" />
+      <workItem from="1677994499965" duration="27616000" />
     </task>
     <servers />
   </component>
