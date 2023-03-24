@@ -5,9 +5,13 @@
       <change afterPath="$PROJECT_DIR$/Class3/거짓말.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class3/아기상어.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/곱셈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class4/내려가기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class4/벽부수고이동하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class4/정수삼각형.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/조합.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/최단경로.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/최소비용구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class4/트리순회.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/특정한최단경로.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/파티.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/후위표기식.java" afterDir="false" />
@@ -54,9 +58,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.후위표기식">
-    <configuration name="곱셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.곱셈" />
+  <component name="RunManager" selected="Application.벽부수고이동하기">
+    <configuration name="트리순회" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.트리순회" />
       <module name="Algorithm-Basic" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최단경로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.최단경로" />
+    <configuration name="내려가기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.내려가기" />
       <module name="Algorithm-Basic" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최소비용구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.최소비용구하기" />
+    <configuration name="벽부수고이동하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.벽부수고이동하기" />
       <module name="Algorithm-Basic" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="특정한최단경로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.특정한최단경로" />
+    <configuration name="정수삼각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Class4.정수삼각형" />
       <module name="Algorithm-Basic" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.벽부수고이동하기" />
+        <item itemvalue="Application.내려가기" />
+        <item itemvalue="Application.트리순회" />
+        <item itemvalue="Application.정수삼각형" />
         <item itemvalue="Application.후위표기식" />
-        <item itemvalue="Application.최소비용구하기" />
-        <item itemvalue="Application.최단경로" />
-        <item itemvalue="Application.곱셈" />
-        <item itemvalue="Application.특정한최단경로" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677993517190</updated>
       <workItem from="1677993519651" duration="860000" />
-      <workItem from="1677994499965" duration="27616000" />
+      <workItem from="1677994499965" duration="39963000" />
     </task>
     <servers />
   </component>
