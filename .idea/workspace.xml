@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac1c6fc0-4eab-4e74-b76c-d4f8d457ee04" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Class4/RGB거리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class4/거짓말.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class4/트리의지름.java" afterDir="false" />
-    <list default="true" id="dc7e63b0-ce91-401f-8273-8e3831b7c11a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Class3/거짓말.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class3/아기상어.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class4/RGB거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class4/거짓말.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/곱셈.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/조합.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/최단경로.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/최소비용구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class4/트리의지름.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/특정한최단경로.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/파티.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class4/후위표기식.java" afterDir="false" />
@@ -49,15 +48,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "profiler.jvm"
-  }
-}]]></component>
-  <component name="RunManager">
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -70,7 +60,20 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.후위표기식">
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="곱셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.Class4.곱셈" />
       <module name="Algorithm-Basic" />
@@ -136,26 +139,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.후위표기식" />
-        <item itemvalue="Application.최소비용구하기" />
-        <item itemvalue="Application.최단경로" />
         <item itemvalue="Application.곱셈" />
-        <item itemvalue="Application.특정한최단경로" />
       </list>
     </recent_temporary>
   </component>
